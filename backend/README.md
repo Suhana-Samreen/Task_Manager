@@ -8,8 +8,8 @@ npm install
 npm run migrate
 npm run dev
 
-npm run dev
+### Frontend
 cd frontend
-npm insta
+npm install
 npm start
 
